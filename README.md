@@ -11,4 +11,4 @@ Web Scraping (beautifulsoup)
 numpy, pandas, matplotlib and seaborn
 statsmodels and scikit-learn
 Analysis:
-Linear Regression, Other Regression Algorithms (Optional)
+Linear Regression, Other Regression Algorithms
